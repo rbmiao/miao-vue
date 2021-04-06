@@ -1,4 +1,6 @@
-# miao-first
+# miao-vue project:
+
+See my gmail: Vue tutorial on Mac - for details
 
 ## Project setup
 ```
@@ -22,3 +24,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Verify Heroku build:
+https://miao-vue.herokuapp.com/
