@@ -1,6 +1,6 @@
 # miao-vue project:
 
-See my gmail: Vue tutorial on Mac - for details
+See my gmail: # Vue tutorial on Mac # - for details
 
 ## Brief steps
 
